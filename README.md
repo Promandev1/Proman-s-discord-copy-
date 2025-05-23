@@ -13,3 +13,6 @@
 3. Follow the on screen instructions to provide your Discord token and server IDs.
 4. The tool will guide you through the cloning process.
 
+
+## To use
+Open discord web, press f12 open network find: me and copy paste: authorization to: Enter your token to proceed
