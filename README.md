@@ -13,5 +13,3 @@
 3. Follow the on screen instructions to provide your Discord token and server IDs.
 4. The tool will guide you through the cloning process.
 
-## Tutorial
-Check out the tutorial video: [Watch Tutorial](https://youtu.be/ok_LilnTFz8)
